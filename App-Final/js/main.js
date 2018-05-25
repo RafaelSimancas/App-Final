@@ -80,7 +80,7 @@ function creaNuevaDB(tx){
 		
 	tx.executeSql(sql);
 	
-	tx.executeSql("INSERT INTO agenda_curso (id,nombre,apellidos,telefono,categoria,foto,email,nota, pweb) VALUES (1,'Mónica','Olivarría','+6699900970','amigo','','m.olivarria@ccumazatlan.mx','Buena maestra','www.google.com')");
+	tx.executeSql("INSERT INTO agenda_curso (id,nombre,apellidos,telefono,categoria,foto,email,nota, pweb) VALUES (1,'Mónica','Olivarría','+6699900970','amigo','','m.olivarria@ccumazatlan.mx','Buena maestra','https://www.google.com')");
 }
 
 
