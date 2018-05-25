@@ -13,10 +13,10 @@ Aplicacion Final
 <author href="" email="">
 Academico
 </author>
-<icon src="images/pokeball.png" gap:density="ldpi" gap:platform="android" />
-<icon src="images/pokeball.png" gap:density="mdpi" gap:platform="android" />
-<icon src="images/pokeball.png" gap:density="hdpi" gap:platform="android" />
-<icon src="images/pokeball.png" gap:density="xhdpi" gap:platform="android" />
+<icon src="images/wow.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/wow.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/wow.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/wow.png" gap:density="xhdpi" gap:platform="android" />
 
 <plugin name="cordova-plugin-dialogs" spec="~1.3.3" />
 
